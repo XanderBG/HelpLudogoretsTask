@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="play">@drawable/play</drawable>
+    <drawable name="pause">@drawable/pause</drawable>
+    <drawable name="next">@drawable/next</drawable>
+    <drawable name="prev">@drawable/prev</drawable>
+</resources>
